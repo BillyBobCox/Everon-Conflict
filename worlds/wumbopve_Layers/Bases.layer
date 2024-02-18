@@ -1,0 +1,271 @@
+ParticleEffectEntity {
+ coords 7261.508 46.633 7668.003
+ angleX 1.789
+ angleY 0.028
+ angleZ 0.896
+ EffectPath "{D04A8E15686D6FDB}Particles/Props/Smoke_RPL5_Damaged.ptc"
+}
+$grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMilitaryBase.et" {
+ {
+  components {
+   BaseRadioComponent "{5C669673C2A82A2B}" {
+    Transceivers {
+     RelayTransceiver "{5C669673E8C94083}" {
+      "Transmitting Range" 10000
+     }
+    }
+   }
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bCanBeHQ 1
+   }
+   SCR_CampaignMilitaryBaseMapDescriptorComponent "{5C669672B19BFE5A}" {
+    DisplayName "MOB"
+   }
+   SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
+    Enabled 0
+   }
+   SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
+    "faction affiliation" "USA"
+   }
+  }
+  coords 4948.738 28.446 11989.792
+ }
+ {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bIsControlPoint 1
+   }
+  }
+  coords 5496.772 44.647 10570.799
+  angleX 0.622
+  angleY -103.156
+  angleZ 0.461
+ }
+ {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bIsControlPoint 1
+   }
+  }
+  coords 5798.544 7.969 9730.138
+ }
+ {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bIsControlPoint 1
+   }
+  }
+  coords 4947.332 115.517 8522.938
+  angleX 1.101
+  angleY 41.318
+  angleZ -2.606
+ }
+ {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bIsControlPoint 1
+   }
+  }
+  coords 4441.35 12.803 10748.104
+  angleX -0.878
+  angleY -101.195
+  angleZ 0.174
+ }
+ {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bIsControlPoint 1
+   }
+  }
+  coords 4710.933 161.514 6987.329
+  angleX 0.267
+  angleY 162.618
+  angleZ 0.854
+ }
+ {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bIsControlPoint 1
+   }
+  }
+  coords 3898.723 102.109 6325.735
+  angleX 1.162
+  angleY 158.398
+  angleZ 0.503
+ }
+ {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bIsControlPoint 1
+   }
+  }
+  coords 2480.95 63.542 7191.383
+  angleX -3.132
+  angleY 96.754
+  angleZ -3.965
+ }
+ {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bIsControlPoint 1
+   }
+  }
+  coords 2195.565 133.942 5636.033
+  angleX -3.576
+  angleY -0.056
+  angleZ 0.897
+ }
+ {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bIsControlPoint 1
+   }
+  }
+  coords 3071.875 117.553 5188.552
+  angleX 2.681
+  angleY -0.084
+  angleZ -1.792
+ }
+ {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bIsControlPoint 1
+   }
+  }
+  coords 5838.801 233.569 7270.604
+  angleX -3.541
+  angleY 0.375
+  angleZ -5.369
+ }
+ {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bIsControlPoint 1
+   }
+  }
+  coords 6759.776 136.669 7946.68
+  angleX -6.956
+  angleY -1.092
+  angleZ 8.947
+ }
+ {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bIsControlPoint 1
+   }
+  }
+  coords 3147.822 8.293 2210.147
+  angleX 2.681
+  angleY 0.084
+  angleZ 1.792
+ }
+ {
+  components {
+   BaseRadioComponent "{5C669673C2A82A2B}" {
+    Transceivers {
+     RelayTransceiver "{5C669673E8C94083}" {
+      "Transmitting Range" 30000
+     }
+    }
+   }
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bCanBeHQ 1
+   }
+   SCR_CampaignSeizingComponent "{5C66967235FBEEA3}" {
+    Enabled 0
+   }
+   SCR_FactionAffiliationComponent "{5AFC974A2595F05D}" {
+    "faction affiliation" "USSR"
+   }
+  }
+  coords 1057.788 2.812 6184.038
+  angleY -0.005
+ }
+ {
+  coords 7470.927 7.844 6698.016
+  angleX -0.895
+ }
+ {
+  coords 7511.441 166.154 4261.375
+  angleX -0.154
+  angleY 16.871
+  angleZ -5.642
+ }
+ {
+  coords 6498.864 87.423 5285.428
+ }
+ {
+  coords 6094.055 4.381 3361.491
+  angleX -13.678
+  angleY -77.274
+  angleZ -10.95
+ }
+ {
+  coords 7672.377 340.6 3056.283
+ }
+ {
+  coords 8824.793 95.174 2774.554
+ }
+ {
+  coords 10651.134 185.938 2474.181
+ }
+ {
+  coords 10195.396 6.883 3366.099
+  angleX -0.416
+  angleY -172.429
+  angleZ -3.663
+ }
+ {
+  coords 9355.673 204.417 1158.716
+  angleX -0.044
+  angleY -92.832
+  angleZ -0.894
+ }
+ {
+  coords 7080.528 156.786 2084.374
+  angleY 170.85
+ }
+ {
+  coords 8376.421 12.245 785.92
+  angleZ -3.576
+ }
+ {
+  coords 10355.828 32.075 355.899
+  angleY -79.581
+ }
+ {
+  coords 11866.684 1.143 1277.252
+ }
+ {
+  coords 10279.769 6.813 1555.263
+  {
+   SCR_CampaignSpawnPointGroup {
+    ID "5C6696731466AF36"
+    coords 2.89 -0.011 0
+    angleZ 0.895
+   }
+  }
+ }
+}
+$grp GenericEntity : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRelayRadio.et" {
+ {
+  coords 4297.078 54.214 10305.473
+ }
+ {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5C727AD73024FB00}" {
+    m_bIsControlPoint 1
+   }
+  }
+  coords 3403.314 20.812 1615.95
+  angleX -10.07
+  angleY -2.385
+  angleZ 13.401
+ }
+ {
+  coords 9952.742 316.341 2263.345
+ }
+}
+ParticleEffectEntity : "{899360C930DA3EE3}Prefabs/Particles/Campfire_burning.et" {
+ coords 8792.049 197.142 3897.362
+}
