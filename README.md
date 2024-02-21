@@ -2,7 +2,7 @@
 
 This is a custom PvE Conflict developed for use on the Wumbology & Co. Server.
 
-[[Join the Server](https://discord.gg/nDNmaSuJ6k)
+[Join the Server](https://discord.gg/nDNmaSuJ6k)
 
 
 # License
